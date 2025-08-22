@@ -1,2 +1,7 @@
-# scala
-Scala basics
+# Scala
+
+## Basics
+### Variables
+
+
+
